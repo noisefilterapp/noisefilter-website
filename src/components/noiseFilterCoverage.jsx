@@ -17,7 +17,7 @@ const coverage = [
   'The Daily Mail',
   'The Daily Mirror',
   'Engadget',
-  'Fox Mews',
+  'Fox News',
   'Gamespot',
   'Gamasutra',
   'Global News Canada',
