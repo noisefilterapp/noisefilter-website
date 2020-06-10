@@ -82,7 +82,7 @@ class DownloadOptions extends React.Component {
               </a>
             )}
             {this.state.currentBrowser === 'Chrome' && (
-              <a href="https://chrome.google.com/webstore/detail/amdamikbiepicglbfbgfmjjhemodckim/publish-accepted?authuser=0&hl=en" target="_blank" rel="noreferrer">
+              <a href="https://chrome.google.com/webstore/detail/noise-filter/amdamikbiepicglbfbgfmjjhemodckim/related?hl=en-GB" target="_blank" rel="noreferrer">
                 <DownloadButton browser={this.state.currentBrowser}/>
               </a>
             )}
